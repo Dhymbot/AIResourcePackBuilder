@@ -1,2 +1,4 @@
 .env
 node_modules
+# I was using these texturepack folders, ignoring them for now.
+Randomizer1

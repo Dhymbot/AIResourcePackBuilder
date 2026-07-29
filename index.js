@@ -1,4 +1,4 @@
 const { loadEnvFile } = require('node:process');
 loadEnvFile();
 
-console.log(process.env.NIGGER)
+console.log(process.env)

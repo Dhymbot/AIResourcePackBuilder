@@ -1,0 +1,23 @@
+{
+  "name": "airesourcepackbuilder",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "miguel"
+  ],
+  "homepage": "https://github.com/Dhymbot/AIResourcePackBuilder#readme",
+  "bugs": {
+    "url": "https://github.com/Dhymbot/AIResourcePackBuilder/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhymbot/AIResourcePackBuilder.git"
+  },
+  "license": "ISC",
+  "author": "Dhymbot",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
